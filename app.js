@@ -113,3 +113,4 @@ function HighScore() {
         console.log(Super);
     }
 }
+

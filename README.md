@@ -4,11 +4,11 @@ A classic memory game built with HTML, CSS, and JavaScript.
 
 ## Features
 
-* Random color sequence generation
-* Level-based gameplay
-* High score tracking
-* Visual button flash effects
-* Game over and restart functionality
+- Random color sequence generation
+- Level-based gameplay
+- High score tracking
+- Visual button flash effects
+- Game over and restart functionality
 
 ## How to Play
 
@@ -20,9 +20,9 @@ A classic memory game built with HTML, CSS, and JavaScript.
 
 ## Technologies Used
 
-* HTML
-* CSS
-* JavaScript
+- HTML
+- CSS
+- JavaScript
 
 ## Project Goal
 
